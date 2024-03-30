@@ -11,3 +11,7 @@ linkListItems.forEach(item => {
     window.location.href = href; 
   });
 });
+
+
+
+console.log('hello');
